@@ -2,14 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb2fe6e4-886e-4dc3-b32e-0040a0fc2a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyClasses/MyClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyClasses/MyClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyThread/MyNewThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/calculate/CalculateTimeThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/helper.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/helper.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/search_algorithms/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/search_algorithms/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/arrayInverter/ArrayInverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/arrayInverter/ArrayInverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/BubbleSortMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/BubbleSortMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/RandomNumbersForSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/RandomNumbersForSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/MergeSort_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/MergeSort_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/array_sort/iteration_recursion_array_sort/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/factorial/FactorialNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/factorial/FactorialNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/fibonacci/NumbersFibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/fibonacci/NumbersFibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/random/RandomNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/random/RandomNum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/search_algorithms/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/search_algorithms/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/search_algorithms/LineSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/search_algorithms/LineSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/DedLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/DedLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/MainThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/MyExampleThreadOne/MyTheadExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/MyExampleThreadOne/MyTheadExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/MyExampleThreadOne/PrintLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/MyExampleThreadOne/PrintLetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/UseSinhroniz/MainSinhron.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/UseSinhroniz/MainSinhron.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/different/threads/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/ExampleGenerics_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/ExampleGenerics_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_3_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_3_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_3_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_Generics_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/generics/Example_Generics_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/ArraysStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/ArraysStock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/PrintRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/PrintRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/SortArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/SortArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/ThreadExample_0A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/ThreadExample_0A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/ThreadExample_1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Example_2A/ThreadExample_1A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyClasses/MyClassOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyClasses/MyClassOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyClasses/MyClassTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyClasses/MyClassTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyThread/MyNewThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/MyThread/MyNewThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/calculate/CalculateTimeThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Lesson_Multithreading/company/calculate/CalculateTimeThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/TheradExemple_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/TheradExemple_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/ThreadExemple_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/ThreadExemple_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/ThreadExemple_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/ThreadExemple_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/rabbits/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gmail/ponomarenko2008/golovach/thread/rabbits/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,7 +79,7 @@
     <session id="-815745167">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="49" />
+          <entry key="project.closed" value="61" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.120" value="1" />
           <entry key="project.open.time.13" value="2" />
@@ -51,57 +88,61 @@
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.41" value="2" />
-          <entry key="project.open.time.42" value="2" />
-          <entry key="project.open.time.43" value="4" />
-          <entry key="project.open.time.44" value="2" />
-          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.42" value="4" />
+          <entry key="project.open.time.43" value="5" />
+          <entry key="project.open.time.44" value="3" />
+          <entry key="project.open.time.45" value="2" />
           <entry key="project.open.time.46" value="2" />
           <entry key="project.open.time.47" value="2" />
           <entry key="project.open.time.48" value="3" />
-          <entry key="project.open.time.49" value="4" />
-          <entry key="project.open.time.51" value="2" />
+          <entry key="project.open.time.49" value="5" />
+          <entry key="project.open.time.51" value="3" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.54" value="2" />
-          <entry key="project.open.time.55" value="1" />
-          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.56" value="2" />
           <entry key="project.open.time.57" value="2" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.78" value="1" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="6515" />
+          <entry key="java" value="8716" />
+          <entry key="txt" value="2" />
           <entry key="xml" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6515" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JAVA" value="8716" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="XML" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="118" />
-          <entry key="txt" value="5" />
+          <entry key="java" value="130" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="118" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JAVA" value="130" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -109,19 +150,90 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/helper.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useArrayList/ExampleArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="56" selection-start-column="56" selection-end-column="56" />
+            <state relative-caret-position="425">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useLinkedList/ExampleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="425">
+              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useLinkedList/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/helper.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useArrayList/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/random/RandomNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/random/RandomUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/factorial/FactorialNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,71 +241,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-              <folding>
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/MyCollection.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#177#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="110" column="38" lean-forward="true" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="143" column="44" lean-forward="true" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Iterable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
-              <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="7089">
+              <caret line="473" column="19" selection-start-line="473" selection-start-column="19" selection-end-line="473" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -213,9 +271,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/golovach2/thread/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/iterator/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/array_sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/core_january_2013/iteration_array_sort/BubbleSort.java" />
@@ -256,9 +311,17 @@
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/ponomarenko2008/NumbersFibonacciTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/helper.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/helper.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/MyCollection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/Entity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/ExampleArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/random/RandomUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useArrayList/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useArrayList/ExampleArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/ExampleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useLinkedList/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/helper.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useLinkedList/ExampleLinkedList.java" />
       </list>
     </option>
   </component>
@@ -315,6 +378,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -399,21 +463,78 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="gmail" type="462c0819:PsiDirectoryNode" />
               <item name="ponomarenko2008" type="462c0819:PsiDirectoryNode" />
+              <item name="different" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudingJavaCore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudingJavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gmail" type="462c0819:PsiDirectoryNode" />
+              <item name="ponomarenko2008" type="462c0819:PsiDirectoryNode" />
+              <item name="different" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="useArrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudingJavaCore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudingJavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gmail" type="462c0819:PsiDirectoryNode" />
+              <item name="ponomarenko2008" type="462c0819:PsiDirectoryNode" />
+              <item name="different" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="useLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudingJavaCore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudingJavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gmail" type="462c0819:PsiDirectoryNode" />
+              <item name="ponomarenko2008" type="462c0819:PsiDirectoryNode" />
+              <item name="different" type="462c0819:PsiDirectoryNode" />
+              <item name="random" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudingJavaCore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudingJavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gmail" type="462c0819:PsiDirectoryNode" />
+              <item name="ponomarenko2008" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudingJavaCore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudingJavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558475053178" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558869208863" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -448,7 +569,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumbersFibonacci">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gmail.ponomarenko2008.different.search_algorithms.BinarySearch" />
       <module name="StudyingJavaCore" />
@@ -462,12 +583,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gmail.ponomarenko2008.different.factorial.FactorialNumber" />
+    <configuration name="ExampleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.ponomarenko2008.different.collections.list.useArrayList.ExampleArrayList" />
       <module name="StudyingJavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gmail.ponomarenko2008.different.factorial.*" />
+          <option name="PATTERN" value="com.gmail.ponomarenko2008.different.collections.list.useArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.ponomarenko2008.different.collections.list.useLinkedList.Main" />
+      <module name="StudyingJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gmail.ponomarenko2008.different.collections.list.useLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.ponomarenko2008.different.collections.list.useArrayList.Main" />
+      <module name="StudyingJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gmail.ponomarenko2008.different.collections.list.useArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -488,50 +635,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumbersForSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gmail.ponomarenko2008.different.array_sort.RandomNumbersForSort" />
-      <module name="StudyingJavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gmail.ponomarenko2008.different.array_sort.iteration_recursion_array_sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All Features in: search_algorithms" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="3" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/search_algorithms" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="StudyingJavaCore" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
-      <option name="SUGGESTED_NAME" value="All Features in: search_algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.RandomNumbersForSort" />
-      <item itemvalue="Application.FactorialNumber" />
-      <item itemvalue="Cucumber java.All Features in: search_algorithms" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.NumbersFibonacci" />
+      <item itemvalue="Application.ExampleArrayList" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExampleArrayList" />
         <item itemvalue="Application.NumbersFibonacci" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Cucumber java.All Features in: search_algorithms" />
-        <item itemvalue="Application.FactorialNumber" />
-        <item itemvalue="Application.RandomNumbersForSort" />
       </list>
     </recent_temporary>
   </component>
@@ -595,6 +712,19 @@
       <workItem from="1558471206757" duration="1666000" />
       <workItem from="1558473403717" duration="1652000" />
       <workItem from="1558475447727" duration="1038000" />
+      <workItem from="1558644559180" duration="400000" />
+      <workItem from="1558645358153" duration="1529000" />
+      <workItem from="1558647155747" duration="1667000" />
+      <workItem from="1558649160660" duration="1669000" />
+      <workItem from="1558651019670" duration="1654000" />
+      <workItem from="1558652982655" duration="1982000" />
+      <workItem from="1558655247475" duration="1640000" />
+      <workItem from="1558791160596" duration="1522000" />
+      <workItem from="1558792992420" duration="1668000" />
+      <workItem from="1558795256641" duration="367000" />
+      <workItem from="1558864332876" duration="1593000" />
+      <workItem from="1558866309449" duration="1637000" />
+      <workItem from="1558868179182" duration="923000" />
     </task>
     <servers />
   </component>
@@ -604,10 +734,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70569000" />
+    <option name="totallyTimeSpent" value="88820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="1" />
@@ -616,7 +747,41 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Persistence" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.33509833" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.27912253" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3846154" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.43934426" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.41898528" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="9" weight="0.2624811" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Persistence" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.23676248" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44680852" />
@@ -641,7 +806,7 @@
       <window_info anchor="right" id="CDI" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="9" weight="0.2624811" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -722,48 +887,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/threads/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/arrayInverter/ArrayInverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/thread/ThreadExemple_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/generics/Example_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/threads/DedLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/golovach/thread/rabbits/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -906,13 +1029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="774" lean-forward="true" selection-start-line="774" selection-end-line="774" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/search_algorithms/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -927,24 +1043,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/factorial/FactorialNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="98" column="49" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/random/RandomNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1007,75 +1109,137 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/helper.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="58" selection-start-column="58" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/MyCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="102">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#177#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="110" column="38" lean-forward="true" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="143" column="44" lean-forward="true" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
+        <state relative-caret-position="2006">
+          <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        <state relative-caret-position="119">
+          <caret line="34" selection-start-line="34" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="110" column="38" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useArrayList/ExampleArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useArrayList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/random/RandomNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/random/RandomUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/factorial/FactorialNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/java8/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7089">
+          <caret line="473" column="19" selection-start-line="473" selection-start-column="19" selection-end-line="473" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/helper.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useLinkedList/ExampleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gmail/ponomarenko2008/different/collections/list/useLinkedList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

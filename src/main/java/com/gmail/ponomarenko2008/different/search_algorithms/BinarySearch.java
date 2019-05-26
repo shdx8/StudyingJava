@@ -14,7 +14,7 @@ public class BinarySearch {
 
 
         while (true) {
-            System.out.println("Enter size of array");
+            System.out.println("Enter size of useArrayList");
 
             int sizeArr = scanner.nextInt();
             arr = new int[sizeArr];

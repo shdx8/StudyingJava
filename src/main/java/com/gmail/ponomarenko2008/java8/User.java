@@ -1,8 +1,11 @@
 package com.gmail.ponomarenko2008.java8;
 
-public class User {
+public class User extends Entity {
     private String name;
     private int age;
+
+    public User() {
+    }
 
     public User(String name, int age) {
         this.name = name;
