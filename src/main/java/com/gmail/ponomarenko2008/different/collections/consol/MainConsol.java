@@ -1,6 +1,5 @@
-package com.gmail.ponomarenko2008.different.collections.list.useLinkedList;
+package com.gmail.ponomarenko2008.different.collections.consol;
 
-import com.gmail.ponomarenko2008.different.random.RandomUtil;
 import com.gmail.ponomarenko2008.java8.User;
 import com.gmail.ponomarenko2008.repository.CrudDao;
 
@@ -8,17 +7,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.SQLException;
-import java.util.LinkedList;
 
-public class ExampleLinkedList {
-    private static LinkedList<User> linkedListUsers = new LinkedList<User>();
-
-
+public class MainConsol {
     public static void main(String[] args) throws IOException {
-
-        RandomUtil randomUtil = new RandomUtil();
-        //randomUtil.generateMathRandom();
-        linkedListUsers.addAll(randomUtil.generateMathRandom());
 
 
         while (true) {
@@ -50,6 +41,13 @@ public class ExampleLinkedList {
 
 
         }
+    }
+
+    public static void showMenu() {
+        1. add;
+        2.d elete
+        3. show_all
+
 
     }
 }
