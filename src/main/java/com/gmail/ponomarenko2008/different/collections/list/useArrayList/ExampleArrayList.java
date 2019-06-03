@@ -1,6 +1,6 @@
 package com.gmail.ponomarenko2008.different.collections.list.useArrayList;
 
-import com.gmail.ponomarenko2008.java8.User;
+import com.gmail.ponomarenko2008.progects.model.User;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.gmail.ponomarenko2008.different.search_algorithms;
+package com.gmail.ponomarenko2008.different.algorithmsAndDataStructures.search_algorithms;
 
 import java.util.Arrays;
 import java.util.Scanner;

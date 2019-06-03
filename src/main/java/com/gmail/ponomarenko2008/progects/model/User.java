@@ -1,6 +1,8 @@
-package com.gmail.ponomarenko2008.java8;
+package com.gmail.ponomarenko2008.progects.model;
 
-public class User extends Entity {
+import com.gmail.ponomarenko2008.progects.model.Entity;
+
+public class User extends Entity implements Comparable {
     private String name;
     private Integer age;
 
@@ -34,5 +36,10 @@ public class User extends Entity {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        return 0;
     }
 }
